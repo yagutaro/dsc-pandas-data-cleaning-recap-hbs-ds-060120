@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this section, you learned about the data science process as well as python fundamentals.
+In this section, you learned about the data science process as well as python fundamentals. You started off with learning about the basic python data types as well as variable assignment. After, you worked with collections of these basic data types, learning about lists and dictionaries. Finally, you learned about data visualizations and used matplotlib to create some bar charts, histograms, and scatter plots.
 
 ## Objectives
 * Understand the data science process
