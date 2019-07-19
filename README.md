@@ -3,11 +3,12 @@
 
 ## Introduction
 
-This short lesson summarizes the topics we covered in section 1 and why they'll be important to you as a Data Scientist.
+In this section, you learned about the data science process as well as python fundamentals.
 
 ## Objectives
-* Understand and explain what was covered in this section
-* Understand and explain why this section will help you become a data scientist
+* Understand the data science process
+* Use python to perform basic data analysis
+
 
 ## Key Takeaways
 
