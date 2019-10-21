@@ -1,9 +1,9 @@
 
-# Section Recap
+# Getting Started with Data Science - Recap
 
 ## Introduction
 
-In this section, you learned about the Data Science workflow as well as the fundamentals of Python. You started off with learning about the basic Python data types as well as variable assignment. After that, you worked with collections of these basic data types, learning about lists and dictionaries. Finally, you learned about data visualization and used `matplotlib` to create some bar charts, histograms, and scatter plots. 
+In this section, you learned about the Data Science process as well as the fundamentals of Python. You started off with learning about the basic Python data types as well as variable assignment. After that, you worked with collections of these basic data types, learning about lists and dictionaries. Finally, you learned about data visualization and used `matplotlib` to create some bar charts, histograms, and scatter plots. 
 
 ## Key Takeaways
 
